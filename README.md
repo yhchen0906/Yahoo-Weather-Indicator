@@ -1,4 +1,4 @@
-# Yahoo-Weather-Indicator  
+# Yahoo weather indicator  
   
 usage: weather.py [-h] [-l locations] [-u unit] [-a | -c | -d day] [-s]  
   
